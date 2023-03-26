@@ -1,2 +1,2 @@
 # Microservice Application
- A microservice application with spring boot
+ A simple microservice application with spring boot
